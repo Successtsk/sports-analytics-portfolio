@@ -28,7 +28,12 @@ This project includes Excel-based charts for:
 - Match-by-match xG and Goals trends
 - Match-by-match xG trends
 - Shot volume and goal efficiency side-by-side
+
+![](Arsenal.png)
+![](Mancity.png)
 - Comparison of average metrics
+
+![](Comparative Analysis.png)
 
 ## 🎯 What I Learned
 - How to structure and clean raw sports data in Excel
