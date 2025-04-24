@@ -33,7 +33,7 @@ This project includes Excel-based charts for:
 ![](Mancity.png)
 - Comparison of average metrics
 
-![](Comparative Analysis.png)
+![](Comparative_Analysis.png)
 
 ## 🎯 What I Learned
 - How to structure and clean raw sports data in Excel
