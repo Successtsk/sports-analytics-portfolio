@@ -30,7 +30,7 @@ This project includes Excel-based charts for:
 - Shot volume and goal efficiency side-by-side
 
 ![](Arsenal.png)
-![](Mancity.png)
+![](Manchester_City.png)
 - Comparison of average metrics
 
 ![](Comparative_Analysis.png)
